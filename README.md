@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://x.com/redbeardpiratst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/redbeardpiratst" height="30" width="40" /></a>
 <a href="https://instagram.com/redbeardpiratestudio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/redbeardpiratestudio/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tbd" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@RedbeardPirateStudio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tbd" height="30" width="40" /></a>
 <a href="https://discord.gg/WCJePqwNQz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/WCJePqwNQz" height="30" width="40" /></a>
 </p>
 
