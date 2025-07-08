@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nico Novikov</h1>
 <h3 align="center">An aspiring Lunatic from Far, Far Away</h3>
 
-- 🔭 I’m currently working on **undisclosed project called "Scrub the Toilet"**
+- 🔭 I’m currently working on a **project called "Scrub the Toilet**, <a href="https://github.com/mnov23/ScrubTheToilet-FP_KnifeGameScrubTheToilet" target="blank">**ScrubTheToilet-FP_KnifeGame**</a>"
 
 - 🌱 I’m currently learning **Unity**
 
