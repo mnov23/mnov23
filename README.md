@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a **project called "Scrub the Toilet**, <a href="https://github.com/mnov23/ScrubTheToilet-FP_KnifeGame" target="blank">**ScrubTheToilet-FP_KnifeGame**</a>"
 
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m currently learning **Unity** and **Blender 3D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
