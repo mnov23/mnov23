@@ -5,7 +5,7 @@ Aspiring Indie Game Developer with a wide range of talents. Jack of all trades, 
 
 Open to employment opportunities as a Junior Software Developer in South Africa or overseas (GMT+2 timezone). Primarily code in Java and C#, but willing to learn whatever language you throw at me.
 
-- 🔭 I'm currently working on a **project called "Scrub the Toilet**, <a href="https://github.com/mnov23/ScrubTheToilet-FP_KnifeGame" target="blank">**ScrubTheToilet-FP_KnifeGame**</a>"
+- 🔭 I'm currently working on a **project undisclosed name**, <a href="https://github.com/mnov23/SirJohnHarringtonsLittleJohnSecret" target="blank">**Sir John Harrington's Little John Secret**</a>"
 
 - 🌱 I'm currently learning **Unity** and **Blender 3D**
 
